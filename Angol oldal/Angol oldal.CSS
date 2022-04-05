@@ -1,5 +1,14 @@
-<!DOCTYPE html>
-<html>
-<head>
-</head>
-<body>
+body
+{
+    background-image:url(hatter.png)
+}
+h2
+{
+    font:22px verdana;
+    color:white;
+}
+li 
+{
+    font: 16px verdana;
+    color: white;
+}
