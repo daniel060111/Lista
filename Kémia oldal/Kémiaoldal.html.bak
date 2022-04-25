@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title> </title>
+	<link rel="stylesheet" href="Kémiaoldal.CSS">
+	<script src="oldal.JS"></script>
+</head>
+<body>
+	<h1>Kémia</h1>
+	<p>Atom szerkezet: 
+	<br>Elemi Részecskék:
+	<br>kémiai részecskék:atom, ion, molekula
+	<br>elemi részecskék:p+,n0,e– 
+	</p>
+	
+	<p>A radioaktivitás:
+	
+
+	<br>Alfa-sugárzás:
+		<br>– Két protont és két neutront tartalmazó részecskékből (héliumatommagokból) áll.
+		<br>– Elektromos térben a negatív pólus felé térül el.
+		<br>– Kicsi az áthatolóképessége.
+		<br>– Amennyiben az élő szervezetben képződik,akkor nagyon veszélyes.		
+	<br>Béta-sugárzás:
+		<br>– Elektronokból áll.
+		<br>– Elektromos térben a pozitív pólus felé térül el.
+		<br>– Nagy az áthatolóképessége.
+		<br>– Az élő szervezetre veszélyes.
+	<br>Gamma-sugárzás:
+		<br>– Nagy energiájú elektromágneses sugárzás.
+		<br>– Elektromos térben nem térül el.
+		<br>– Áthatolóképessége nagyon nagy.
+		<br>– Az élő szervezetekre veszélyes
+	</p>
+	Kötések:
+	<table border>
+		<tr>
+			<td>Rendű</td>
+			<td>Kötéstípusok</td>
+			<td>ad</td>
+			
+		</tr>
+		<tr>
+			<td rowspan="3">Első-</td>
+			<td>Ionos</td>
+		</tr>
+		<tr>
+			<td>Kovalens</td>
+		</tr>
+		<tr>
+			<td>Fémes</td>
+		</tr>
+		<tr>
+			<td rowspan="3">Másod-</td>
+			<td>Hidrogénkötés</td>
+		</tr>
+		<tr>
+			<td>Dipol-dipol</td>
+		</tr>
+		<tr>
+			<td>Indukált-dipol</td>
+		</tr>
+	</table>
+</body>
+</html>
